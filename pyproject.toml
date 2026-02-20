@@ -16,5 +16,6 @@ dependencies = [
     "langchain-qdrant==1.1.0",
     "qdrant-client==1.16.2",
     "ipykernel",
-    "python-dotenv"
+    "python-dotenv",
+    "pydantic"
 ]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "question": "What is the best time to visit Paris?",
+    "expected_answer": "The best time to visit Paris is from April to June and September to October when the weather is pleasant and crowds are smaller.",
+    "bot_answer": "April to June and September to October are ideal months due to good weather and fewer tourists."
+    
+  },
+  {
+    "id": 2,
+    "question": "Do Indian citizens need a visa to travel to Thailand?",
+    "expected_answer": "Indian citizens currently can obtain a visa on arrival or may travel visa-free depending on updated government policies.",
+    "bot_answer": "No visa is required for Indian citizens to visit Thailand."
+   
+  },
+  {
+    "id": 3,
+    "question": "What currency is used in Japan?",
+    "expected_answer": "The currency used in Japan is the Japanese Yen (JPY).",
+    "bot_answer": "Japan uses Yen."
+  },
+  {
+    "id": 4,
+    "question": "How many days are enough to explore Rome?",
+    "expected_answer": "3 to 4 days are generally enough to explore Rome’s main attractions like the Colosseum, Vatican, and Trevi Fountain.",
+    "bot_answer": "One day is enough to see Rome."
+  },
+  {
+    "id": 5,
+    "question": "Is travel insurance mandatory for Schengen visa?",
+    "expected_answer": "Yes, travel insurance with minimum coverage of 30,000 Euros is mandatory for a Schengen visa.",
+    "bot_answer": "Yes, insurance is required for Schengen visa."
+  },
+  {
+    "id": 6,
+    "question": "What are the top attractions in Dubai?",
+    "expected_answer": "Top attractions include Burj Khalifa, Dubai Mall, Palm Jumeirah, Desert Safari, and Dubai Marina.",
+    "bot_answer": "Dubai has many malls and tall buildings."
+  },
+  {
+    "id": 7,
+    "question": "Which is the cheapest month to fly to Europe?",
+    "expected_answer": "Typically January, February, and November are the cheapest months due to off-season travel.",
+    "bot_answer": "Summer months are usually cheapest."
+  },
+  {
+    "id": 8,
+    "question": "What documents are required for a US tourist visa?",
+    "expected_answer": "Passport, DS-160 confirmation, visa appointment confirmation, financial documents, and supporting travel documents.",
+    "bot_answer": "Just your passport."
+  },
+  {
+    "id": 9,
+    "question": "Is Bali safe for solo travelers?",
+    "expected_answer": "Yes, Bali is generally safe for solo travelers, but basic precautions should be taken.",
+    "bot_answer": "Yes, Bali is safe but stay alert and follow local guidelines."
+  },
+  {
+    "id": 10,
+    "question": "What is the baggage allowance in international flights?",
+    "expected_answer": "Baggage allowance depends on airline and ticket class but typically ranges between 20-30 kg for economy class.",
+    "bot_answer": "You can carry unlimited baggage."
+  },
+  {
+    "id": 11,
+    "question": "How early should I arrive at the airport for international travel?",
+    "expected_answer": "Arrive at least 3 hours before departure for international flights.",
+    "bot_answer": "Reach 3 hours before departure."
+  },
+  {
+    "id": 12,
+    "question": "What plug type is used in the UK?",
+    "expected_answer": "The UK uses Type G electrical plugs.",
+    "bot_answer": "UK uses Type G plug."
+  },
+  {
+    "id": 13,
+    "question": "Can I use Indian driving license in the USA?",
+    "expected_answer": "An Indian driving license may be valid temporarily in some states, often along with an International Driving Permit.",
+    "bot_answer": "Yes, it works everywhere in the USA."
+  },
+  {
+    "id": 14,
+    "question": "What is the best way to travel within Switzerland?",
+    "expected_answer": "The Swiss Travel Pass and trains are the most efficient and scenic way to travel within Switzerland.",
+    "bot_answer": "You can walk everywhere."
+  },
+  {
+    "id": 15,
+    "question": "Is tipping mandatory in the USA?",
+    "expected_answer": "Tipping is customary in the USA, especially in restaurants, usually around 15-20%.",
+    "bot_answer": "Tipping is common and usually 15-20%."
+  },
+  {
+    "id": 16,
+    "question": "What vaccines are recommended before traveling to Africa?",
+    "expected_answer": "Vaccines may include Yellow Fever, Hepatitis A & B, Typhoid, and routine immunizations depending on country.",
+    "bot_answer": "No vaccines are needed."
+  },
+  {
+    "id": 17,
+    "question": "What is jet lag?",
+    "expected_answer": "Jet lag is a temporary sleep disorder caused by traveling across multiple time zones.",
+    "bot_answer": "It happens when you travel across time zones and feel tired."
+  },
+  {
+    "id": 18,
+    "question": "Is public transport good in Singapore?",
+    "expected_answer": "Yes, Singapore has an efficient and well-connected public transport system including MRT and buses.",
+    "bot_answer": "Yes, transport is good and easy to use."
+  },
+  {
+    "id": 19,
+    "question": "What is the capital of Australia?",
+    "expected_answer": "The capital of Australia is Canberra.",
+    "bot_answer": "Sydney is the capital of Australia."
+  },
+  {
+    "id": 20,
+    "question": "How can I find cheap flight tickets?",
+    "expected_answer": "Use fare comparison websites, book in advance, be flexible with dates, and set fare alerts.",
+    "bot_answer": "Just check Google."
+  },
+  {
+    "id": 21,
+    "question": "Is Iceland expensive for tourists?",
+    "expected_answer": "Yes, Iceland is considered expensive due to high accommodation, food, and transportation costs.",
+    "bot_answer": "Yes, it is generally expensive compared to many countries."
+  },
+  {
+    "id": 22,
+    "question": "What language is spoken in Brazil?",
+    "expected_answer": "Portuguese is the official language of Brazil.",
+    "bot_answer": "Spanish."
+  },
+  {
+    "id": 23,
+    "question": "Do I need travel insurance for domestic flights?",
+    "expected_answer": "Travel insurance is not mandatory for domestic flights but is recommended.",
+    "bot_answer": "Yes, it is mandatory."
+  },
+  {
+    "id": 24,
+    "question": "What is the emergency number in Europe?",
+    "expected_answer": "112 is the general emergency number across most European countries.",
+    "bot_answer": "911 works everywhere in Europe."
+  },
+  {
+    "id": 25,
+    "question": "What are peak tourist seasons?",
+    "expected_answer": "Peak seasons are periods when tourist demand is highest, often during summer holidays and major festivals.",
+    "bot_answer": "It is when many tourists travel, usually during holidays."
+  }
+]
